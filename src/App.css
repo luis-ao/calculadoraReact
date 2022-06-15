@@ -1,7 +1,7 @@
 .App{
     height: 100 vh;
     padding-top: 10px;
-    background-color: #1b1b32;
+    background-color: #243A73;
     font-family: Lato, sans-serif;
     display: flex;
     flex-wrap: wrap;
@@ -25,9 +25,9 @@
     width: 400px;
     height: 600px;
     padding: 14px;
-    background-color: #99c9ff;
+    background-color: #A5BECC;
     border-radius: 20px;
-    border: 5px solid white;
+    border: 5px solid #F2EBE9;
   }
   
   .fila {
