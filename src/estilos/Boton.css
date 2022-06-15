@@ -16,7 +16,7 @@
   }
   
   .boton-contenedor:hover {
-    background-color: #7C5CA3;
+    background-color: #FF93D6;
   }
   
   .operador {
@@ -24,5 +24,5 @@
   }
   
   .operador:hover {
-    background-color: #FF93D6;
+    background-color: #7C5CA3;
   }
